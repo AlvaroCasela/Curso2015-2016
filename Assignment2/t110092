@@ -1,4 +1,4 @@
-@base <http://www.oeg-upm.net/ontologies/people/t110092>
+@base <http://www.oeg-upm.net/ontologies/t110092>
 @prefix vocab: <http://www.ontologies.org/ontologies/t110092#>
 :Class01
     vocab:includes:Sensor029;
